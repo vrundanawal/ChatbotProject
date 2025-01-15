@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="962f2fee-ce4f-4fec-b156-b0f334b71cb4" name="Changes" comment="Installed the libaray and running the server">
+    <list default="true" id="962f2fee-ce4f-4fec-b156-b0f334b71cb4" name="Changes" comment="Extract the text from PDF">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot.py" afterDir="false" />
     </list>
@@ -106,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736942367696</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Extract the text from PDF">
+      <option name="closed" value="true" />
+      <created>1736943123208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736943123208</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,7 +146,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic project setup" />
     <MESSAGE value="Installed the libaray and running the server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Installed the libaray and running the server" />
+    <MESSAGE value="Extract the text from PDF" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extract the text from PDF" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
